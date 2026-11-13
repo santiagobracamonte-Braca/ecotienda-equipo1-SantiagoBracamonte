@@ -82,3 +82,22 @@ El resultado es un escenario comparativo. El consumo real depende del ciclo de t
 - IDEAM, seguimiento del Fenómeno de El Niño 2026-2027: <https://www.ideam.gov.co/fenomeno-del-nino>
 - IDEAM, declaratoria oficial del 8 de octubre de 2026: <https://www.ideam.gov.co/sala-de-prensa/noticia/ideam-confirma-el-fenomeno-de-el-nino-y-ungrd-articula-la-preparacion-nacional-para-afrontar-sus>
 - XM, informe de variables del mercado de energía de agosto de 2026 (publicado el 29 de septiembre de 2026): <https://www.xm.com.co/noticias/9612-informe-de-xm-sobre-las-variables-del-mercado-de-energia-en-agosto-de-2026>
+
+## Publicación del proyecto
+
+- **Sitio web:** https://santiagobracamonte-braca.github.io/ecotienda-equipo1-SantiagoBracamonte/
+- **Repositorio:** https://github.com/santiagobracamonte-Braca/ecotienda-equipo1-SantiagoBracamonte
+
+## Autor
+
+**Santiago Bracamonte Suárez**  
+Proyecto individual desarrollado para la evidencia EA2 de la IU Digital de Antioquia.
+
+## Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- Sass
+- JavaScript
+- GitHub Pages
