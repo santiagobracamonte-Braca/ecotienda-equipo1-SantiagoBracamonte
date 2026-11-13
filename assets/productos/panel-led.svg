@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Panel LED">
+  <g fill="none" stroke="#102a43" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="26" y="30" width="68" height="48" rx="8"/>
+    <path d="M26 46h68M48 30v48M72 30v48" stroke="#2bb673"/>
+    <path d="M44 90l6 12M76 90l-6 12M60 90v14"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Ventilador">
+  <g fill="none" stroke="#102a43" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="60" cy="50" r="34"/>
+    <path d="M60 50c0-16-4-26-14-26-7 0-9 10 0 18 7 6 14 8 14 8Z" stroke="#2bb673"/>
+    <path d="M60 50c16 0 26-4 26-14 0-7-10-9-18 0-6 7-8 14-8 14Z" stroke="#2bb673"/>
+    <path d="M60 50c0 16 4 26 14 26 7 0 9-10 0-18-7-6-14-8-14-8Z" stroke="#2bb673"/>
+    <path d="M60 50c-16 0-26 4-26 14 0 7 10 9 18 0 6-7 8-14 8-14Z" stroke="#2bb673"/>
+    <circle cx="60" cy="50" r="5" fill="#102a43"/>
+    <path d="M60 84v16M48 100h24"/>
+  </g>
+</svg>

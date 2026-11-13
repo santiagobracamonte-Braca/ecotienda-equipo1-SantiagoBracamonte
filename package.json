@@ -1,0 +1,13 @@
+{
+  "name": "voltia-casa-ea2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tienda demostrativa de equipos eficientes con HTML, Bootstrap, Sass y JavaScript",
+  "scripts": {
+    "sass": "npx sass --no-source-map scss/estilos.scss css/estilos.css --style=expanded",
+    "sass:watch": "npx sass --watch --no-source-map scss/estilos.scss:css/estilos.css"
+  },
+  "devDependencies": {
+    "sass": "^1.83.0"
+  }
+}

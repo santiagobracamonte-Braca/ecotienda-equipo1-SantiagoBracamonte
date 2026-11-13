@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Voltía Casa">
+  <defs>
+    <linearGradient id="vc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d6f582"/>
+      <stop offset="1" stop-color="#c8ef69"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="#102a43"/>
+  <rect x="12" y="12" width="40" height="40" rx="11" fill="url(#vc)"/>
+  <path d="M23 23l9 20 9-20" fill="none" stroke="#102a43" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

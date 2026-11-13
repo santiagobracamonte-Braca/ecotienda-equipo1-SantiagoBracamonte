@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Congelador horizontal">
+  <g fill="none" stroke="#102a43" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="22" y="44" width="76" height="40" rx="8"/>
+    <path d="M22 60h76"/>
+    <path d="M86 52v4" stroke="#2bb673"/>
+    <path d="M30 84v8M90 84v8"/>
+  </g>
+  <g stroke="#2bb673" stroke-width="3" stroke-linecap="round">
+    <path d="M52 24v10M60 20v14M68 24v10"/>
+  </g>
+</svg>

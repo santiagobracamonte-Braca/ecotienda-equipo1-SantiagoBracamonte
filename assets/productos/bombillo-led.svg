@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Bombillo LED">
+  <g fill="none" stroke="#102a43" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 22c-15 0-26 11-26 25 0 10 5 16 10 21 2 2 3 4 3 7h26c0-3 1-5 3-7 5-5 10-11 10-21 0-14-11-25-26-25Z"/>
+    <path d="M49 95h22M52 103h16"/>
+    <path d="M60 46v18M51 55l9 9 9-9" stroke="#2bb673"/>
+  </g>
+  <g stroke="#2bb673" stroke-width="3" stroke-linecap="round">
+    <path d="M60 10v8M93 24l-6 6M110 60h-8M27 30l-6-6M18 60h-8"/>
+  </g>
+</svg>

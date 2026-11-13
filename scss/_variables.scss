@@ -1,0 +1,36 @@
+// Parcial de variables Sass: centraliza la identidad visual.
+$navy: #102a43;
+$navy-deep: #0a1d2e;
+$teal: #16a6a1;
+$lime: #c8ef69;
+$paper: #f4f7f5;
+$ink: #183247;
+$muted: #6a7b86;
+$line: #dce6e1;
+$white: #ffffff;
+$font-heading: "Manrope", sans-serif;
+$font-body: "DM Sans", sans-serif;
+$radius-card: 1.25rem;
+$shadow-soft: 0 18px 45px rgba(16, 42, 67, 0.09);
+
+// Sistema de elevación por capas: sombras compuestas para una profundidad más realista.
+$shadow-xs: 0 1px 2px rgba(16, 42, 67, 0.06), 0 1px 3px rgba(16, 42, 67, 0.05);
+$shadow-sm: 0 2px 4px rgba(16, 42, 67, 0.05), 0 4px 10px rgba(16, 42, 67, 0.06);
+$shadow-md: 0 4px 8px rgba(16, 42, 67, 0.05), 0 10px 24px rgba(16, 42, 67, 0.08);
+$shadow-lg: 0 8px 16px rgba(16, 42, 67, 0.06), 0 20px 48px rgba(16, 42, 67, 0.12);
+$shadow-xl: 0 12px 24px rgba(16, 42, 67, 0.08), 0 32px 70px rgba(16, 42, 67, 0.16);
+$shadow-lime: 0 10px 24px rgba(200, 239, 105, 0.35), 0 2px 6px rgba(16, 42, 67, 0.08);
+
+// Curvas de aceleración para microinteracciones más naturales.
+$ease-out: cubic-bezier(0.22, 0.61, 0.36, 1);
+$ease-in-out: cubic-bezier(0.65, 0.05, 0.36, 1);
+$ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+
+// Escala de espaciado base (ritmo vertical de 4px).
+$space-1: 0.25rem;
+$space-2: 0.5rem;
+$space-3: 0.75rem;
+$space-4: 1rem;
+$space-6: 1.5rem;
+$space-8: 2rem;
+$space-12: 3rem;
